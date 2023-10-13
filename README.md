@@ -1,1 +1,1 @@
-# Silhouette-Detection-using-PoseNet
+# Silhouette Detection using PoseNet | Machine learning in Javascript
